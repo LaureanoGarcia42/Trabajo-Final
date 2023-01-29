@@ -1,0 +1,255 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #FFF8F0
+    }
+
+    .Foto-de-perfil {
+        position: absolute;
+        top: 25%;
+        right: 11%;
+        width: 180px;
+        height: 180px;
+        border-radius: 100%;
+        transform: skewY(5deg);
+        overflow: hidden;
+    }
+
+    .Foto-de-perfil img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .Clase-1{
+    width: 100%;
+    height: 300px;
+    background-color:  #31829D;
+    font-family: 'Roboto', sans-serif;
+    transform: skewY(-5deg);
+}
+
+.Clase-1 .Parte-1 {
+    width: 55%;
+    height: 55%;
+    position: absolute;
+    left: 25%;
+    transform: skewY(5deg);
+}
+
+.Clase-1 .Parte-1 #Nombre {
+    color: #FFF8F0;
+    font-weight: bolder;
+    font-size: 75px;
+    margin-bottom: 0;
+    margin-top: 40;
+}
+
+.Clase-1 .Parte-1 #Parrafo-1 {
+    color: #FFF8F0;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.Informacion-Personal {
+    width: 60%;
+    height: auto;
+    background-color:  #31829D;
+    margin: 3% auto;
+    padding: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+.Informacion-Personal .Titulo {
+    color: #FFF8F0;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #FFF8F0 dashed;
+}
+
+.Informacion-Estudiantil {
+    width: 90%;
+    height: auto;
+    background-color:  #31829D;
+    margin: 3% auto;
+    padding: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+.Informacion-Estudiantil .Titulo {
+    color: #FFF8F0;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #FFF8F0 dashed;
+}
+
+.Item-1 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-2 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-3 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-4 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-5 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-6 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-7 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-8 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-9 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-10 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-11 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-12 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-13 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-14 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-15 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-16 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-17 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-18 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Item-19 {
+    color: #FFF8F0;
+    font-size: 20px;
+    display: inline;
+    margin-right: 25px;
+}    
+
+.Item-20 {
+    color: #000000;
+    font-size: 20px;
+    display: inline;
+}
+
+.Contenedor {
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+}
+
+#Subtitulo {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    border-bottom: 3px #FFF8F0 solid;
+}
+
+#Texto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-align: center;
+}
+
+.Informacion-Mi {
+    width: 50%;
+    height: auto;
+    background-color:  #d4d4d4;
+    margin: 3% auto;
+    margin-top: 0% ;
+    padding: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Creditos {
+    text-align: center;
+    background-color: #31829D;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0%;
+}
